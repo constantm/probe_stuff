@@ -1,6 +1,6 @@
 # GardenState
 
-**TODO: Add description**
+Project for reading and displaying garden parameters from an Arduino via serial port.
 
 ## Installation
 
