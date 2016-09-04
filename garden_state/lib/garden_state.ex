@@ -1,0 +1,2 @@
+defmodule GardenState do
+end
